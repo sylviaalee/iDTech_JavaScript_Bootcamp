@@ -1,1 +1,2 @@
 # JavaScript Bootcamp
+Sylvia Lee
